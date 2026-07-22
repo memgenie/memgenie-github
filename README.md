@@ -1,3 +1,4 @@
+<img width="1375" height="875" alt="1" src="https://github.com/user-attachments/assets/36585e15-92b8-47ae-9be7-00d629d01e78" />
 [README.md](https://github.com/user-attachments/files/30282640/README.md)
 # MemGenie — Membean Bot
 
