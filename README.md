@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30282640/README.md)
 # MemGenie — Membean Bot
 
 **This is the docs & changelog repo for the MemGenie Chrome extension.** There is no separate download here — install from the Chrome Web Store below. This repo exists to document what the extension does, track its version history, and answer common questions in one place.
@@ -9,7 +8,7 @@
 
 **[→ Install MemGenie from the Chrome Web Store](https://chromewebstore.google.com/detail/Membean%20Bot/ojfekhggedflfbcnknmahnnaaocfadph)**
 
----
+<img width="1031" height="656" alt="1" src="https://github.com/user-attachments/assets/978f6a64-22a9-4bd3-81cc-2040c1e7dc97" />
 
 ## What is Membean?
 
@@ -79,8 +78,8 @@ Have a question about whether something's working as expected? Open an [issue](.
 
 ## Support
 
-- [Discord](https://discord.gg/T3ZvFAyXrt)
-- [Pricing](https://geniecheats.com/pricing.html)
+- Full MemGenie Support Channel: https://app.geniecheats.com/dashboard/support
+- 
 
 ---
 
